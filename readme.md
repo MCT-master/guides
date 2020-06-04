@@ -5,8 +5,8 @@
 This page features step-by-step instructions, video tutorials and valuable information on a range of topics designed to help new students prepare for the MCT masters program.
 
 Topics:
-* [General preperation](https://github.com/MCT-master/Guides/wiki/Preparation)
-* [Software installation](https://github.com/MCT-master/Guides/wiki/Software)
-* [How to use the MCT Blog](https://github.com/MCT-master/Guides/wiki/Blog)
-* [Studentweb course registration](https://github.com/MCT-master/Guides/wiki/Course-Registration)
-* [Canvas](https://github.com/MCT-master/Guides/wiki/Canvas)
+* [How to prepare for the MCT masters program](https://github.com/MCT-master/Guides/wiki/How-to-prepare-for-the-MCT-course)
+* [Get the required MCT softwares](https://github.com/MCT-master/Guides/wiki/Required-MCT-software)
+* [How to use the MCT Blog](https://github.com/MCT-master/Guides/wiki/How-to-use-the-MCT-Blog)
+* [How to register to MCT courses]https://github.com/MCT-master/Guides/wiki/How-to-register-to-MCT-courses)
+* [How to make Canvas your friend](https://github.com/MCT-master/Guides/wiki/Setting-up-Canvas)
