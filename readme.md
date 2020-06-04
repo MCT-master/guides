@@ -2,7 +2,7 @@
 
 ![mct-banner](assets/img/mct-banner.png)
 
-Starting as an MCT student can be a pretty overwhelming experience, meaning that you are required to use several new software tools and online environments to be able to follow the course materials. Additionally, since you will be a student at both UiO and NTNU, the course registration process is a little more complex than usual. In light of this, we have provided you with step-by-step instructions, video tutorials, general tips and other valuable information on a range of topics designed to help you best prepare for the [MCT masters program](https://www.uio.no/english/studies/programmes/mct-master/).
+Starting as an MCT student can be a pretty overwhelming experience, meaning that you are required to use several new software tools and online environments to be able to follow the course materials. Additionally, since you will be a student at both UiO and NTNU, the course registration process is a little more complex than usual. In light of this, we have provided you with step-by-step instructions, video tutorials, general tips and other valuable information on a range of topics designed to make the [MCT](https://www.uio.no/english/studies/programmes/mct-master/) experience as good as possible.
 
 From experience, I highly recommend that you go through each topic and do the necessary preparatory work before the semester starts.
 
