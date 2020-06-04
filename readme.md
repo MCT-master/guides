@@ -7,6 +7,6 @@ This page features step-by-step instructions, video tutorials and valuable infor
 Topics:
 * [General preperation](https://github.com/MCT-master/Guides/wiki/Preparation)
 * [Software installation](https://github.com/MCT-master/Guides/wiki/Software)
-* [How to Blog](https://github.com/MCT-master/Guides/wiki/Blog)
+* [How to use the MCT Blog](https://github.com/MCT-master/Guides/wiki/Blog)
 * [Studentweb course registration](https://github.com/MCT-master/Guides/wiki/Course-Registration)
 * [Canvas](https://github.com/MCT-master/Guides/wiki/Canvas)
