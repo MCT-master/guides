@@ -1,5 +1,6 @@
 # MCT student guides
 
+![mct-banner](assets/img/mct-banner.png)
 
 
 Themes:
