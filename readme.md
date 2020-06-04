@@ -2,7 +2,7 @@
 
 ![mct-banner](assets/img/mct-banner.png)
 
-These guides consists of written step-by-step instructions, video tutorials and other valuable information designed to help new students prepare for the MCT masters program.
+These guides consists of step-by-step instructions on valuable topics designed to help new students prepare for the MCT masters program.
 
 Topics:
 * [General preperation](https://github.com/MCT-master/Guides/wiki/Preparation)
