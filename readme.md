@@ -13,5 +13,5 @@ Topics:
 * [How to register to MCT courses](https://github.com/MCT-master/Guides/wiki/How-to-register-to-MCT-courses)
 * [How to make Canvas your friend](https://github.com/MCT-master/Guides/wiki/Setting-up-Canvas)
 
-If you have any further questions on these matters, dont hesitate to contact us at:
+If you have any further questions on these matters, dont hesitate to contact us at
 teaching-support@imv.uio.no 
