@@ -10,7 +10,7 @@ Topics:
 * [How to prepare for the MCT masters program](https://github.com/MCT-master/Guides/wiki/How-to-prepare-for-the-MCT-masters-program)
 * [The softwares you need](https://github.com/MCT-master/Guides/wiki/The-softwares-you-need)
 * [How to use the MCT Blog](https://github.com/MCT-master/Guides/wiki/How-to-use-the-MCT-Blog)
-* [How to register to MCT courses](https://github.com/MCT-master/Guides/wiki/How-to-register-to-MCT-courses)
+* [How to register for MCT courses](https://github.com/MCT-master/Guides/wiki/How-to-register-for-MCT-courses)
 * [How to make Canvas your friend](https://github.com/MCT-master/Guides/wiki/Setting-up-Canvas)
 
 If you have any further questions on these matters, dont hesitate to contact us at
